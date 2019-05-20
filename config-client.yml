@@ -1,3 +1,5 @@
 info:
   profile: default
-  name: config-client
+  from: git1
+  
+test: bbb
